@@ -1,10 +1,10 @@
 # Use ADRs to Capture Architecturally Significant Decisions
 
 * Status: proposed
-* Deciders: Anto, Courtney, Derek, Dom, Marco
+* Deciders: Elf 1, Elf 2
 * Date: 2022-12-22
 
-Technical Story: BAPT-1
+Technical Story: Some jira ref...
 
 ## Context and Problem Statement
 
